@@ -1,0 +1,38 @@
+.container {
+    margin: auto;
+    width: 90%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid gray;
+}
+.text {
+    margin: auto;
+    border: 1px solid gray;
+    border-top: 0px;
+    width: 90%;
+    height: 50px;
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-weight: 600;
+}
+textarea {
+}
+#enter {
+    margin: 20px auto;
+    width: 90%;
+    border: 1px solid gray;
+}
+#comment {
+    margin: auto;
+    border: 1px solid gray;
+    width: 90%;
+}
+button {
+    display: block;
+    width: 50px;
+    height: 30px;
+}
